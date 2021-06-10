@@ -1,0 +1,6 @@
+===========================================Customers================================================================= 
+ID              Name            Surname         Address         Date of Birth   Age                      Credit CanRent        
+===================================================================================================================== 
+ 
+Number of customers who can rent :    0
+Number of customers who cannot rent : 0

@@ -1,0 +1,5 @@
+ID             Name           Product Type   Product Description
+null 	null                	null      	null           null           null           null           
+===============================SUPPLIERS=====================================
+ID              Name                 Prod Type       Description     
+=============================================================================
